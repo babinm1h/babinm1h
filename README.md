@@ -27,4 +27,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" title="nest" alt="nest" width="50" height="50"/>&nbsp;
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/babinm1h/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babinm1h&layout=compact)](https://github.com/babinm1h/github-readme-stats)
