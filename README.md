@@ -1,12 +1,12 @@
 ##### Hi there 👋
 # Some Of My Projects FULLSTACK JS:
-<a href="https://effulgent-cuchufli-62f90c.netlify.app/"target="_blank">Amazon Clone</a>
+[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)
 
-<a href="https://vk-frontend-six.vercel.app/"target="_blank">VK Clone</a>
+[VK Clone](https://vk-frontend-six.vercel.app/)
 
-<a href="https://neon-rolypoly-972222.netlify.app/"target="_blank">Instagram Clone</a>
+[Instagram Clone](https://neon-rolypoly-972222.netlify.app/)
 
-<a href="https://iridescent-lily-dd5cb1.netlify.app/ "target="_blank">GraphQL Social</a>
+[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/)
 
 
 ## Contacts:
