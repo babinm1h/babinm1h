@@ -41,6 +41,11 @@
 [Backend Code](https://github.com/babinm1h/twitter-clone-backend)
 
 
+:point_right: **Online Store** - React, MobX, Typescript, ExpressJS, PostgresQL, SCSS, JWT Auth, Context\
+[Frontend Code](https://github.com/babinm1h/shop-PSQL-frontend)\
+[Backend Code](https://github.com/babinm1h/shop-PSQL-backend)
+
+
 ## Contacts:
 <div id="badges">
   <a href="https://t.me/m1hbbn" target="_blank">
