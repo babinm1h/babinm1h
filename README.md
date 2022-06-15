@@ -1,12 +1,27 @@
 ##### Hi there 👋
 # Some Of My Projects FULLSTACK JS:
-[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)
+:point_right:[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/) - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация
+[Frontend Code](https://github.com/babinm1h/amazonClone-frontend)
+[Backend Code](https://github.com/babinm1h/amazonClone-backend)
 
-[VK Clone](https://vk-frontend-six.vercel.app/)
 
-[Instagram Clone](https://neon-rolypoly-972222.netlify.app/)
+[VK Clone](https://vk-frontend-six.vercel.app/) - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация
+[Frontend Code](https://github.com/babinm1h/vk-frontend)
+[Backend Code](https://github.com/babinm1h/vk-backend)
 
-[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/)
+
+[Instagram Clone](https://neon-rolypoly-972222.netlify.app/) - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация
+[Frontend Code](https://github.com/babinm1h/instagramClone-frontend)
+[Backend Code](https://github.com/babinm1h/instagamClone-backend)
+
+
+[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/) - React, Apollo-client, Typescript, GraphQL, MongoDB, tailwindCSS
+[Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)
+[Backend Code](https://github.com/babinm1h/graphQL-social-backend)
+
+
+## Not deployed projects:
+
 
 
 ## Contacts:
