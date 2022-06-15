@@ -1,27 +1,44 @@
 ##### Hi there 👋
 # Some Of My Projects FULLSTACK JS:
-:point_right:[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/) - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
+:point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
 [Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
-[Backend Code](https://github.com/babinm1h/amazonClone-backend)\
+[Backend Code](https://github.com/babinm1h/amazonClone-backend)
 
 
-[VK Clone](https://vk-frontend-six.vercel.app/) - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация
-[Frontend Code](https://github.com/babinm1h/vk-frontend)
+:point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
+[Frontend Code](https://github.com/babinm1h/vk-frontend)\
 [Backend Code](https://github.com/babinm1h/vk-backend)
 
 
-[Instagram Clone](https://neon-rolypoly-972222.netlify.app/) - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация
-[Frontend Code](https://github.com/babinm1h/instagramClone-frontend)
+:point_right: **[Instagram Clone](https://neon-rolypoly-972222.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
+[Frontend Code](https://github.com/babinm1h/instagramClone-frontend)\
 [Backend Code](https://github.com/babinm1h/instagamClone-backend)
 
 
-[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/) - React, Apollo-client, Typescript, GraphQL, MongoDB, tailwindCSS
-[Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)
+:point_right: **[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/)** - React, Apollo-client, Typescript, GraphQL, MongoDB, tailwindCSS\
+[Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)\
 [Backend Code](https://github.com/babinm1h/graphQL-social-backend)
 
 
 ## Not deployed projects:
+:point_right: **MusicApp NextJS** - NextJS, Redux-toolkit, Typescript, NestJS, MongoDB, tailwindCSS, passportJS авторизация\
+[Frontend Code](https://github.com/babinm1h/musicApp-frontend)\
+[Backend Code](https://github.com/babinm1h/musicApp-nestJS-backend)
 
+
+:point_right: **Clothes Shop** - React, Redux-toolkit, Typescript, ExpressJs, MongoDB, SCSS, JWT Auth\
+[Frontend Code](https://github.com/babinm1h/clothesShop-frontend)\
+[Backend Code](https://github.com/babinm1h/clothesSchop-backend)
+
+
+:point_right: **Online Store** - React, Redux, Typescript, ExpressJS, PostgresQL, SCSS, JWT Auth\
+[Frontend Code](https://github.com/babinm1h/sh0p-frontend)\
+[Backend Code](https://github.com/babinm1h/sh0p-backend)
+
+
+:point_right: **Twitter Clone** - React, Redux, Typescript, ExpressJS, MongoDB, SCSS, JWT Auth\
+[Frontend Code](https://github.com/babinm1h/twitter-clone)\
+[Backend Code](https://github.com/babinm1h/twitter-clone-backend)
 
 
 ## Contacts:
