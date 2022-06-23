@@ -4,8 +4,8 @@
 [Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
 [Backend Code](https://github.com/babinm1h/amazonClone-backend)
 
-:point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация
-[Frontend Code](https://github.com/babinm1h/youtube-frontend)
+:point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
+[Frontend Code](https://github.com/babinm1h/youtube-frontend)\
 [Backend Code](https://github.com/babinm1h/youtube-backend)
 
 
