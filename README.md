@@ -1,13 +1,15 @@
 ##### Hi there 👋
 # Some Of My Projects FULLSTACK JS:
 :point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
-
 [Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
 [Backend Code](https://github.com/babinm1h/amazonClone-backend)
 
+:point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация
+[Frontend Code](https://github.com/babinm1h/youtube-frontend)
+[Backend Code](https://github.com/babinm1h/youtube-backend)
+
 
 :point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
-
 [Frontend Code](https://github.com/babinm1h/vk-frontend)\
 [Backend Code](https://github.com/babinm1h/vk-backend)
 
@@ -19,14 +21,12 @@
 
 
 :point_right: **[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/)** - React, Apollo-client, Typescript, GraphQL, MongoDB, tailwindCSS\
-
 [Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)\
 [Backend Code](https://github.com/babinm1h/graphQL-social-backend)
 
 
 ## Not deployed projects:
 :point_right: **MusicApp NextJS** - NextJS, Redux-toolkit, Typescript, NestJS, MongoDB, tailwindCSS, passportJS авторизация\
-
 [Frontend Code](https://github.com/babinm1h/musicApp-frontend)\
 [Backend Code](https://github.com/babinm1h/musicApp-nestJS-backend)
 
@@ -35,20 +35,17 @@
 [Frontend Code](https://github.com/babinm1h/clothesShop-frontend)\
 [Backend Code](https://github.com/babinm1h/clothesSchop-backend)
 
-
 :point_right: **Online Store** - React, Redux, Typescript, ExpressJS, PostgresQL, SCSS, JWT Auth\
 [Frontend Code](https://github.com/babinm1h/sh0p-frontend)\
 [Backend Code](https://github.com/babinm1h/sh0p-backend)
 
 
 :point_right: **Twitter Clone** - React, Redux, Typescript, ExpressJS, MongoDB, SCSS, JWT Auth\
-
 [Frontend Code](https://github.com/babinm1h/twitter-clone)\
 [Backend Code](https://github.com/babinm1h/twitter-clone-backend)
 
 
 :point_right: **Online Store** - React, MobX, Typescript, ExpressJS, PostgresQL, SCSS, JWT Auth, Context\
-
 [Frontend Code](https://github.com/babinm1h/shop-PSQL-frontend)\
 [Backend Code](https://github.com/babinm1h/shop-PSQL-backend)
 
