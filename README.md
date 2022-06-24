@@ -7,7 +7,8 @@
 
 :point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
 [Frontend Code](https://github.com/babinm1h/youtube-frontend)\
-[Backend Code](https://github.com/babinm1h/youtube-backend)
+[Backend Code](https://github.com/babinm1h/youtube-backend)\
+[Youtube Clone Review](https://youtu.be/nLtkrryfZxU) - видео с демонстрацией основного функционала
 
 
 :point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
