@@ -17,7 +17,6 @@
 
 
 :point_right: **[Instagram Clone](https://neon-rolypoly-972222.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
-
 [Frontend Code](https://github.com/babinm1h/instagramClone-frontend)\
 [Backend Code](https://github.com/babinm1h/instagamClone-backend)
 
