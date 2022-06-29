@@ -14,6 +14,7 @@
 :point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
 [Frontend Code](https://github.com/babinm1h/vk-frontend)\
 [Backend Code](https://github.com/babinm1h/vk-backend)
+(Сообщения могут не открываться т.к проблемы с деплоем Websocket сервера)
 
 
 :point_right: **[Instagram Clone](https://neon-rolypoly-972222.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
