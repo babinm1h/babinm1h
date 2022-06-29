@@ -25,6 +25,8 @@
 [Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)\
 [Backend Code](https://github.com/babinm1h/graphQL-social-backend)
 
+:point_right: **[Cryptocurrencies](https://peppy-swan-d7562a.netlify.app/)** - React, Redux-toolit, Typescript, Rapid API, SCSS Modules
+
 
 ## Not deployed projects:
 :point_right: **MusicApp NextJS** - NextJS, Redux-toolkit, Typescript, NestJS, MongoDB, tailwindCSS, passportJS авторизация\
