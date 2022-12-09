@@ -1,14 +1,14 @@
 ##### Hi there 👋
 # Some Of My Projects FULLSTACK JS:
-:point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
-[Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
-[Backend Code](https://github.com/babinm1h/amazonClone-backend)
-
 
 :point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
 [Frontend Code](https://github.com/babinm1h/youtube-frontend)\
 [Backend Code](https://github.com/babinm1h/youtube-backend)\
 [Youtube Clone Review](https://youtu.be/nLtkrryfZxU) - видео с демонстрацией основного функционала
+
+:point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
+[Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
+[Backend Code](https://github.com/babinm1h/amazonClone-backend)
 
 
 :point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
