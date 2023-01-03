@@ -6,6 +6,10 @@
 [Backend Code](https://github.com/babinm1h/youtube-backend)\
 [Youtube Clone Review](https://youtu.be/nLtkrryfZxU) - видео с демонстрацией основного функционала
 
+:point_right: **[Task Managment App](warm-heliotrope-695459.netlify.app)** - React, RTK Query, Redux-toolkit, Typescript, NestJS, MongoDB, scss modules, JWT авторизация\
+[Frontend Code](https://github.com/babinm1h/task-managment-front)\
+[Backend Code](https://github.com/babinm1h/task-management-backend)
+
 :point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
 [Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
 [Backend Code](https://github.com/babinm1h/amazonClone-backend)
