@@ -10,10 +10,6 @@
 [Frontend Code](https://github.com/babinm1h/task-managment-front)\
 [Backend Code](https://github.com/babinm1h/task-management-backend)
 
-:point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
-[Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
-[Backend Code](https://github.com/babinm1h/amazonClone-backend)
-
 
 :point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
 [Frontend Code](https://github.com/babinm1h/vk-frontend)\
@@ -30,7 +26,13 @@
 [Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)\
 [Backend Code](https://github.com/babinm1h/graphQL-social-backend)
 
+
 :point_right: **[Cryptocurrencies](https://peppy-swan-d7562a.netlify.app/)** - React, Redux-toolit, Typescript, Rapid API, SCSS Modules
+
+
+:point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
+[Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
+[Backend Code](https://github.com/babinm1h/amazonClone-backend)
 
 
 ## Not deployed projects:
