@@ -49,11 +49,6 @@
 [Backend Code](https://github.com/babinm1h/graphQL-social-backend)
 
 
-:point_right: **[Amazon Clone](https://effulgent-cuchufli-62f90c.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, scss modules, StripeJS, JWT авторизация\
-[Frontend Code](https://github.com/babinm1h/amazonClone-frontend)\
-[Backend Code](https://github.com/babinm1h/amazonClone-backend)
-
-
 :point_right: **[Cryptocurrencies](https://peppy-swan-d7562a.netlify.app/)** - React, Redux-toolit, Typescript, Rapid API, SCSS Modules
 
 
