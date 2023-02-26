@@ -1,4 +1,27 @@
 ##### Hi there 👋
+## 🖥 My development stack:
+
+- React
+- Next.js
+- JavaScript(ES6)
+- TypeScript, PropTypes
+- Redux / Redux-Toolkit / RTK Query
+- Redux-Thunk
+- React-query
+- MobX
+- GraphQL / ApolloClient
+- Jest, react-testing-library
+- NodeJS, Express, NestJS
+- HTML5
+- CSS/SCSS/SASS/CSS-modules/LESS
+- TailwindCSS, MaterialUI, Styled-components
+- Formik, React-hook-form, Yup
+- Socket.io
+- Mongoose, TypeORM
+- MongoDB, PostgreSQL
+- Git/GitHub/Gitlab
+- Postman
+
 # Some Of My Projects FULLSTACK JS:
 
 :point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
