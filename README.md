@@ -52,31 +52,6 @@
 :point_right: **[Cryptocurrencies](https://peppy-swan-d7562a.netlify.app/)** - React, Redux-toolit, Typescript, Rapid API, SCSS Modules
 
 
-## Not deployed projects:
-:point_right: **MusicApp NextJS** - NextJS, Redux-toolkit, Typescript, NestJS, MongoDB, tailwindCSS, passportJS авторизация\
-[Frontend Code](https://github.com/babinm1h/musicApp-frontend)\
-[Backend Code](https://github.com/babinm1h/musicApp-nestJS-backend)
-
-
-:point_right: **Clothes Shop** - React, Redux-toolkit, Typescript, ExpressJs, MongoDB, SCSS, JWT Auth\
-[Frontend Code](https://github.com/babinm1h/clothesShop-frontend)\
-[Backend Code](https://github.com/babinm1h/clothesSchop-backend)
-
-:point_right: **Online Store** - React, Redux, Typescript, ExpressJS, PostgresQL, SCSS, JWT Auth\
-[Frontend Code](https://github.com/babinm1h/sh0p-frontend)\
-[Backend Code](https://github.com/babinm1h/sh0p-backend)
-
-
-:point_right: **Twitter Clone** - React, Redux, Typescript, ExpressJS, MongoDB, SCSS, JWT Auth\
-[Frontend Code](https://github.com/babinm1h/twitter-clone)\
-[Backend Code](https://github.com/babinm1h/twitter-clone-backend)
-
-
-:point_right: **Online Store** - React, MobX, Typescript, ExpressJS, PostgresQL, SCSS, JWT Auth, Context\
-[Frontend Code](https://github.com/babinm1h/shop-PSQL-frontend)\
-[Backend Code](https://github.com/babinm1h/shop-PSQL-backend)
-
-
 ## Contacts:
 <div id="badges">
   <a href="https://t.me/m1hbbn" target="_blank">
