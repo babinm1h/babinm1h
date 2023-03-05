@@ -24,7 +24,7 @@
 
 # Some Of My Projects FULLSTACK JS:
 
-:point_right: **[YouTube Clone](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
+:point_right: **[YouTube](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
 [Frontend Code](https://github.com/babinm1h/youtube-frontend)\
 [Backend Code](https://github.com/babinm1h/youtube-backend)\
 [Youtube Clone Review](https://youtu.be/nLtkrryfZxU) - видео с демонстрацией основного функционала
@@ -34,14 +34,9 @@
 [Backend Code](https://github.com/babinm1h/task-management-backend)
 
 
-:point_right: **[VK Clone](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
+:point_right: **[VK](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
 [Frontend Code](https://github.com/babinm1h/vk-frontend)\
 [Backend Code](https://github.com/babinm1h/vk-backend)\
-
-
-:point_right: **[Instagram Clone](https://neon-rolypoly-972222.netlify.app/)** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
-[Frontend Code](https://github.com/babinm1h/instagramClone-frontend)\
-[Backend Code](https://github.com/babinm1h/instagamClone-backend)
 
 
 :point_right: **[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/)** - React, Apollo-client, Typescript, GraphQL, MongoDB, tailwindCSS\
