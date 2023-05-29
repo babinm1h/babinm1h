@@ -22,30 +22,6 @@
 - Git/GitHub/Gitlab
 - Postman
 
-# Some Of My Projects FULLSTACK JS:
-
-:point_right: **[YouTube](https://animated-taiyaki-a533ea.netlify.app/)** - React, Typescript, Redux-Toolkit, Nest JS, MongoDB, tailwindCSS, PassportJS JWT авторизация\
-[Frontend Code](https://github.com/babinm1h/youtube-frontend)\
-[Backend Code](https://github.com/babinm1h/youtube-backend)\
-[Youtube Clone Review](https://youtu.be/nLtkrryfZxU) - видео с демонстрацией основного функционала
-
-:point_right: **[Task Managment App](https://warm-heliotrope-695459.netlify.app)** - React, RTK Query, Redux-toolkit, Typescript, NestJS, MongoDB, scss modules, JWT авторизация, React Intl - возможность менять язык приложения, Light/Dark modes \
-[Frontend Code](https://github.com/babinm1h/task-managment-front)\
-[Backend Code](https://github.com/babinm1h/task-management-backend)
-
-
-:point_right: **[VK](https://vk-frontend-six.vercel.app/)** - Next JS, React-query, Typescript, Nest JS, MongoDB, tailwindCSS, passportJS авторизация\
-[Frontend Code](https://github.com/babinm1h/vk-frontend)\
-[Backend Code](https://github.com/babinm1h/vk-backend)\
-
-
-:point_right: **[GraphQL Social](https://iridescent-lily-dd5cb1.netlify.app/)** - React, Apollo-client, Typescript, GraphQL, MongoDB, tailwindCSS\
-[Frontend Code](https://github.com/babinm1h/graphQL-social-frontend)\
-[Backend Code](https://github.com/babinm1h/graphQL-social-backend)
-
-
-:point_right: **[Cryptocurrencies](https://peppy-swan-d7562a.netlify.app/)** - React, Redux-toolit, Typescript, Rapid API, SCSS Modules
-
 
 ## Contacts:
 <div id="badges">
